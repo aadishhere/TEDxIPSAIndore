@@ -10,11 +10,11 @@ class Volunteer {
 
 export const organizer = [
   new Volunteer(
-    "Gopika Gopan",
-    "https://www.linkedin.com/in/gopikagopan1091/",
+    "Aadish Jain",
+    "https://www.linkedin.com/in/aadishhere/",
     null,
-    null,
-    "/team/organizer/gopika.webp"
+    "https://www.instagram.com/aadishhere/",
+    "/team/organizer/aadishjain.webp"
   ),
 ];
 
