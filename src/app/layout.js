@@ -2,8 +2,8 @@ import PoppinsFont from "@/utils/PoppinsFont";
 import "./globals.css";
 
 export const metadata = {
-  title: "TEDx GEC RIT",
-  description: "TEDx GEC RIT event at RIT Kottayam, Kerala, India",
+  title: "TEDxIPSA Indore",
+  description: "TEDxIPSA Indore event at IPS Academy, Indore, Madhya Pradesh, India",
 };
 
 export default function RootLayout({ children }) {
