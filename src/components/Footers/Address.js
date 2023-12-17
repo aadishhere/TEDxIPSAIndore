@@ -6,8 +6,8 @@ const Address = () => {
       <div className="flex flex-col gap-1">
         <SmallHeading>FIND US</SmallHeading>
         <iframe
-          title="Reach TEDxGECRIT at RIT, Kottayam via Google Maps"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3137.921222750371!2d76.6208601897725!3d9.57880093862586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b062d96b2fe8ed9%3A0xbade243e087b408!2sRajiv%20Gandhi%20Institute%20Of%20Technology!5e0!3m2!1sen!2sin!4v1692508856353!5m2!1sen!2sin"
+          title="Reach TEDxIPSA Indore at IPS Academy, Indore, Madhya Pradesh, India via Google Maps"
+          src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3681.9389094412036!2d75.82401977530296!3d22.65606622943243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3962fc0bf32599bf%3A0x1008b35026e513e3!2sInstitute%20of%20Engineering%20%26%20Science%2C%20IPS%20Academy!5e0!3m2!1sen!2sin!4v1702837932663!5m2!1sen!2sin"
           className="w-[250px] md:w-[300px]"
           width="300"
           height="100"
@@ -17,11 +17,11 @@ const Address = () => {
           allowFullScreen
         ></iframe>
         <p className="footer_text py-1">
-          Rajiv Gandhi Institute of Technology,
+          Institute Of Engineering & Science, IPS Academy
           <br />
-          Nedumkuzhi, Pampady, Kottayam,
+          Indore, Madhya Pradesh,
           <br />
-          Kerala, India - 686501
+          India - 452012
         </p>
       </div>
     </div>
