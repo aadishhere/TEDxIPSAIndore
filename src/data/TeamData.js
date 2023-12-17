@@ -11,7 +11,7 @@ class Volunteer {
 export const organizer = [
   new Volunteer(
     "Aadish Jain",
-    "https://www.linkedin.com/in/aadishhere/",
+    null,
     null,
     "https://www.instagram.com/aadishhere/",
     "/team/organizer/aadishjain.webp"
