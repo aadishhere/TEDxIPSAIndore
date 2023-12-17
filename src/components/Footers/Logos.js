@@ -8,7 +8,7 @@ const Logos = () => {
         height={40}
         width={275}
         loading="lazy"
-        alt="TEDx GEC RIT logo, Kottayam"
+        alt="TEDxIPSA Indore Logo"
       />
       <p className="footer_text mt-2">
         This independent TEDx event
