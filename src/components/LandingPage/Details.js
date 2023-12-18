@@ -12,7 +12,7 @@ export default function HeroSection() {
         className="absolute inset-0 w-full h-full object-cover"
         poster="/path-to-poster-image.jpg"
       >
-        <source src="aadishhere/tedxipsaindore/public/assets/bg.mp4" type="video/mp4" />
+        <source src="public/assets/bg.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
