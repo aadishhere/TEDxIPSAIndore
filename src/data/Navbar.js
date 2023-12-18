@@ -4,6 +4,6 @@ export const NavLinks = [
   { text: "About", link: "#about" },
   { text: "Talks", link: "/talks" },
   // { text: "Highlights", link: "#highlights" },
-  { text: "Sponsors", link: "/meet-us" },
+  { text: "Team", link: "/meet-us" },
   { text: "Contact", link: "#contact" },
 ];
