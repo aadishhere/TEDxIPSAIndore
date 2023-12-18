@@ -57,7 +57,7 @@ const GetTicketsButton = () => (
       className="flex h-full w-full justify-center px-4 py-2 lg:py-1"
       target="_blank"
     >
-      Tickets sold out
+      GetTicketsButton
     </Link>
   </button>
 );
