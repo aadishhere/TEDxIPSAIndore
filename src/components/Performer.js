@@ -1,14 +1,15 @@
-/*import Container from "@/components/utility/Container.js";
+import Container from "@/components/utility/Container.js";
 import RedText from "./utility/RedText";
 import SpecialPerformance from "./SpeakerCards/SpecialPerformance";
-
+/*
 const Performer = () => {
   return (
      <Container>
       <div className="flex h-fit w-full flex-col items-center justify-center gap-16 rounded-[5px] border-white py-12 pt-0 transition-all duration-200 md:h-fit md:flex-row md:gap-6 md:border md:py-6">
-        {/* AYUSH KRISHNA *//*}
+        { AYUSH KRISHNA}
         <div className="h-[200px] w-full bg-ayush bg-cover bg-custom md:w-[300px] lg:bg-cover lg:bg-left"></div>
-        <SpecialPerformance id="1">
+        
+         <SpecialPerformance id="1">
           Prepare to be captivated as our mentalist{" "}
           <RedText>Ayush Krishna</RedText> takes the stage, demonstrating his
           uncanny ability to read minds, predict outcomes, and influence
@@ -36,13 +37,10 @@ const Performer = () => {
             Don't miss your chance to experience Sabareesh Narayanan's comedic
             brilliance live on stage at TEDxGECRIT.
           </p>
-        </SpecialPerformance>
+        </SpecialPerformance> 
       </div>
     </Container>
   );
 };
 
 export default Performer;
-
-
-*/
