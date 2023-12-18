@@ -10,14 +10,14 @@ export default function HeroSection() {
         loop
         muted
         className="absolute inset-0 w-full h-full object-cover"
-        poster="/path-to-poster-image.jpg" // Add a poster image for browsers that don't support video autoplay
+        poster="/path-to-poster-image.jpg"
       >
-        <source src="/path-to-video.mp4" type="video/mp4" />
+        <source src="aadishhere/tedxipsaindore/public/assets/bg.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
       {/* Content */}
-      <div className="text-center text-white relative z-10">
+      <div className="text-center text-white relative z-10 w-full">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-extralight mb-4">
           TEDx IPSA Indore
         </h1>
