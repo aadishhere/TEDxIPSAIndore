@@ -3,8 +3,21 @@ import RedText from "../utility/RedText";
 
 export default function HeroSection() {
   return (
-    <section className="hero-section h-screen bg-gradient-to-r from-blue-500 to-purple-500 text-white flex items-center justify-center">
-      <div className="text-center">
+    <section className="hero-section relative h-screen flex items-center justify-center overflow-hidden">
+      {/* Video Background */}
+      <video
+        autoPlay
+        loop
+        muted
+        className="absolute inset-0 w-full h-full object-cover"
+        poster="/path-to-poster-image.jpg" // Add a poster image for browsers that don't support video autoplay
+      >
+        <source src="/path-to-video.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
+
+      {/* Content */}
+      <div className="text-center text-white relative z-10">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-extralight mb-4">
           TEDx IPSA Indore
         </h1>
