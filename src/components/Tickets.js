@@ -9,7 +9,7 @@ const GetTicketsButton = () => (
     className="flex h-full w-full justify-center p-2 lg:py-1"
     target="_blank"
   >
-    GetTicketsButton
+    Get Tickets
   </Link>
 );
 
