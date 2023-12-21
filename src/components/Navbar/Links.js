@@ -19,8 +19,7 @@ export default function Links({ setClose }) {
               color: `${
                 item?.text === active ? "var(--clr-redText)" : "white"
               }`,
-            }}
-          >
+            }}>
             {item?.text}
           </Link>
         </li>

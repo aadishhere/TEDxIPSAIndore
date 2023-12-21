@@ -21,7 +21,7 @@ export default function Navbar({ home = true }) {
               height={24}
               width={165}
               loading="eager"
-              alt="TEDx GEC RIT logo, Kottayam"
+              alt="TEDxIPSA logo"
             />
           </Link>
         </span>
@@ -39,8 +39,7 @@ export default function Navbar({ home = true }) {
       <div
         className={`sticky left-0 top-0 z-40 flex h-screen w-screen flex-col items-center justify-center gap-12 bg-black duration-700 ease-in-out lg:hidden ${
           close ? "nav-close" : "nav-open"
-        }`}
-      >
+        }`}>
         <ul className="flex flex-col gap-12 text-center">
           {home ? <Links setClose={setClose} /> : <HomeLink />}
         </ul>
@@ -55,8 +54,7 @@ const GetTicketsButton = () => (
     <Link
       href={yepDeskLink}
       className="flex h-full w-full justify-center px-4 py-2 lg:py-1"
-      target="_blank"
-    >
+      target="_blank">
       GetTicketsButton
     </Link>
   </button>

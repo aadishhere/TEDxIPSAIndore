@@ -8,7 +8,7 @@ export default function Page() {
     <main>
       <Navbar home={false} />
       <Sponsor />
-      <Team />
+      {/* <Team /> */}
       <Footer />
     </main>
   );
