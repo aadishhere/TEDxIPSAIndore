@@ -8,7 +8,7 @@ export default function Team() {
   return (
     <Container>
       <section className="mx-[4%]">
-        <Heading>our team</Heading>
+        <Heading>OUR TEAM</Heading>
         <div className="px-4">
           <Organizer />
           <div className="my-16 space-y-16">
