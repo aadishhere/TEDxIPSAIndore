@@ -18,7 +18,7 @@ const Footer = () => {
         <UsefulLinks />
       </section>
       <section className="footer_text flex flex-col-reverse items-center justify-between gap-3 text-center md:flex-row ">
-        <div>2023 TEDxGECRIT</div>
+        <div>2023 TEDxIPSA</div>
         <div className="flex select-none flex-row justify-center gap-1">
           <FooterIcon link={linkedinLink} iconName="linkedin" />
           <FooterIcon link={instagramLink} iconName="instagram" />

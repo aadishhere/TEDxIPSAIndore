@@ -38,16 +38,16 @@ const AboutUs = () => {
           <ReadMore link="https://www.ted.com/about/programs-initiatives/tedx-program" />
         </Description>
         <Description>
-          <AboutHeading id="3">TEDx GEC RIT</AboutHeading>
+          <AboutHeading id="3">TEDxIPSA Indore</AboutHeading>
           <AboutText>
-            TEDxGECRIT is an independently organised TED event. TEDxGECRIT
+            TEDxIPSA Indore is an independently organised TED event. TEDxIPSA
             strives to create a platform for diverse voices to share their
             stories, ideas ,insights and perspectives. Paradoxes are the keys
             that unlock doors to new perspectives. At our event we embark on a
-            captivating journey of "Unraveling Paradoxes". Our aim is to bring
-            together bright and intellectual minds to give talks that will
-            transform your understanding of contradictions and lead you on a
-            path of self discovery.
+            captivating journey of "Seek". Our aim is to bring together bright
+            and intellectual minds to give talks that will transform your
+            understanding of contradictions and lead you on a path of self
+            discovery.
           </AboutText>
         </Description>
       </div>
